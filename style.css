@@ -79,3 +79,7 @@
         .medium {
           font-size: 1.5em;
         }
+
+        .list {
+          text-align: left;
+        }
