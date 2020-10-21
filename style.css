@@ -83,3 +83,11 @@
         .list {
           text-align: left;
         }
+
+        .next-to-text-r {
+          float: right;
+        }
+
+        .next-to-text-l {
+          float: left;
+        }
