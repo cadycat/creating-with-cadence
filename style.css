@@ -91,3 +91,6 @@
         .next-to-text-l {
           float: left;
         }
+        .align-left {
+          text-align: left;
+        }
