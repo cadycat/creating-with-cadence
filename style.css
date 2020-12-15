@@ -27,6 +27,11 @@
         50%{background-position:100% 25%}
         100%{background-position:0% 50%}
         }
+
+        a:hover, a:active {
+          color: magenta;
+          background-color: white;
+        }
         
         .red {
         color: red;
