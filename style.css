@@ -30,7 +30,7 @@
 
         a:hover, a:active {
           color: magenta;
-          font-size: 25px;
+          font-size: larger;
         }
         
         .red {
