@@ -28,7 +28,7 @@
         100%{background-position:0% 50%}
         }
 
-        a:hover, a:active {
+        a.big-link:hover, a.big-link:active {
           color: magenta;
           font-size: larger;
         }
