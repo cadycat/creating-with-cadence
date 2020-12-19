@@ -36,6 +36,7 @@
 
         a.no-big-link:hover, a.no-big-link:active {
           color: magenta;
+          font-size: 45px;
         }
         
         .red {
