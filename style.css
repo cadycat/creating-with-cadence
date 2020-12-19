@@ -27,12 +27,14 @@
         50%{background-position:100% 25%}
         100%{background-position:0% 50%}
         }
-        
+
         a.big-link:hover, a.big-link:active {
+          color: magenta;
           font-size: larger;
         }
 
         a.no-big:hover, a.no-big:active{
+          color: magenta;
           font-size: 45px;
         }
         .red {
